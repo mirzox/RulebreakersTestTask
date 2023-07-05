@@ -26,3 +26,5 @@
 
 5. You can access swagger docs in: http://localhost:8000/swagger/ or  http://0.0.0.0:8000/swagger/
 6. And you can also access django admin panel on default admin link page /admin, but first you should create user to access it.
+
+PS: don't forget collect static files(python3 manage.py collectstatic)
